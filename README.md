@@ -41,10 +41,12 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!---<div align="center">
   <h2>🐍 My Contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src"" />
+  <img alt="snake eating my contributions" src"https://raw.githubusercontent.com/thuhien143/thuhien143/output/github-contribution-grid-snake.svg" />
+    <br/>
+   
 </div>
 
 <!---
